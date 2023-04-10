@@ -1,0 +1,19 @@
+name: Aliyun Drive Signin
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 15 * * *' # china +8
+
+jobs:
+  signin:
+    name: Aliyun Drive Signin
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ImYrS/aliyun-auto-signin@main
+        with:
+          REFRESH_TOKENS: ${{ secrets.ALIYUND_TOKEN }}
+          GP_TOKEN: ${{ secrets.GP_TOKEN}}
+          PUSH_TYPES: 'webhook'
+          DO_NOT_REWARD: 'true'
+          WEBHOOK_URL: ${{ secrets.NOTIFY_WEBHOOK }}
