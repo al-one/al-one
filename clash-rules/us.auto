@@ -1,0 +1,10 @@
+# MicroSoft
+DOMAIN,www.bing.com
+DOMAIN,sydney.bing.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msecnd.net
+
+# Adobe
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,typekit.com
