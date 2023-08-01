@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobess.com
 DOMAIN-SUFFIX,typekit.com
+
+# Jetbrains
+DOMAIN-SUFFIX,grazie.aws.intellij.net
