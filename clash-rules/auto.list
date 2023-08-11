@@ -1,2 +1,6 @@
 # IP
 DOMAIN,ip.skk.moe
+DOMAIN-SUFFIX,ip.sb
+
+# Github
+DOMAIN-SUFFIX,ghcr.io
