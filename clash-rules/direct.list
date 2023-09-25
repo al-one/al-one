@@ -1,6 +1,10 @@
 # Alone
 DOMAIN-SUFFIX,anlo.ng,DIRECT
+DOMAIN-SUFFIX,anan.pw,DIRECT
 DOMAIN-SUFFIX,anan.pro,DIRECT
+
+# IP
+DOMAIN-SUFFIX,ip138.com,DIRECT
 
 # MicroSoft
 DOMAIN-SUFFIX,sharepoint.com,DIRECT
