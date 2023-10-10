@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,ip.sb
 
 # Github
 DOMAIN-SUFFIX,ghcr.io
+
+# Hass
+DOMAIN,mobile-apps.home-assistant.io
