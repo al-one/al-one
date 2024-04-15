@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,ghcr.io
 # Hass
 DOMAIN,mobile-apps.home-assistant.io
 
+# BitCoin
+DOMAIN-SUFFIX,bnbstatic.com
+
 # Meta
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
