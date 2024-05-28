@@ -11,6 +11,7 @@ DOMAIN,mobile-apps.home-assistant.io
 # BitCoin
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,hivehubs.app
+DOMAIN-SUFFIX,rovex.io
 
 # Meta
 DOMAIN-SUFFIX,meta.com
