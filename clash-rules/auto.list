@@ -12,6 +12,7 @@ DOMAIN,mobile-apps.home-assistant.io
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,hivehubs.app
 DOMAIN-SUFFIX,rovex.io
+DOMAIN-SUFFIX,io.solutions
 
 # Meta
 DOMAIN-SUFFIX,meta.com
