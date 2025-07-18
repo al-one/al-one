@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,sharepoint.com,DIRECT
 # vshow
 DOMAIN-SUFFIX,v.show,DIRECT
 DOMAIN-SUFFIX,poppo.com,DIRECT
+IP-CIDR,47.238.36.137/32,DIRECT
 
 # Other
 DOMAIN-SUFFIX,getgrass.io
