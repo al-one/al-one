@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,poppo.com,DIRECT
 IP-CIDR,47.238.36.137/32,DIRECT
 
 # Other
+DOMAIN-SUFFIX,grass.io
 DOMAIN-SUFFIX,getgrass.io
 DOMAIN-SUFFIX,wynd.network
 DOMAIN-SUFFIX,gradient.network
