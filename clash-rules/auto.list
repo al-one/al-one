@@ -1,6 +1,7 @@
 # IP
 DOMAIN,ip.skk.moe
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
 
 # Github
 DOMAIN-SUFFIX,ghcr.io
