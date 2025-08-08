@@ -8,6 +8,7 @@ IP-CIDR,198.23.254.39/32,no-resolve
 DOMAIN-SUFFIX,hacs.vip,DIRECT
 
 # IP
+DOMAIN-SUFFIX,ipinfo.io,DIRECT
 DOMAIN-SUFFIX,ip138.com,DIRECT
 
 # MicroSoft
