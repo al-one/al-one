@@ -25,5 +25,6 @@ DOMAIN-SUFFIX,oculus.com
 
 # Other
 DOMAIN,download.proxmox.com
+DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,iyzico.com
 DOMAIN-SUFFIX,polyfill.io
