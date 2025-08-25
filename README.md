@@ -31,6 +31,13 @@ https://anlo.ng
   <img align="center" style="height:150px" src="https://github-readme-stats.anlo.ng/api/pin/?theme=dark&bg_color=30,92384A,0C061F&show_owner=true&username=hasscc&repo=hass-super">
 </a>
 
+<a href="https://github.com/hasscc/ai-conversation" target="_blank">
+  <img align="center" style="height:120px" src="https://github-readme-stats.anlo.ng/api/pin/?theme=dark&bg_color=30,0C061F,92384A&show_owner=true&username=hasscc&repo=ai-conversation">
+</a>
+<a href="https://github.com/hasscc/wuling" target="_blank">
+  <img align="center" style="height:120px" src="https://github-readme-stats.anlo.ng/api/pin/?theme=dark&bg_color=30,92384A,0C061F&show_owner=true&username=hasscc&repo=wuling">
+</a>
+
 <a href="https://github.com/aahl/initial-commit" target="_blank">
   <img align="center" style="height:150px" src="https://github-readme-stats.anlo.ng/api/pin/?theme=dark&bg_color=30,0C061F,92384A&show_owner=true&username=aahl&repo=initial-commit">
 </a>
