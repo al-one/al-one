@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 
 # Other
+DOMAIN-SUFFIX,linux.do
 DOMAIN,download.proxmox.com
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,iyzico.com
