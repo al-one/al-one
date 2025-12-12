@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,google
 # MicroSoft
 DOMAIN,www.bing.com
 DOMAIN,sydney.bing.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msecnd.net
 
 # Adobe
