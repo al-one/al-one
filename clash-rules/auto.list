@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,githubusercontent.com
 # Hass
 DOMAIN,mobile-apps.home-assistant.io
 
+# Cloudflare
+DOMAIN-SUFFIX,argotunnel.com
+
 # BitCoin
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,ton.org
