@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 
 # Tailscale
-DOMAIN-SUFFIX,controlplane.tailscale.com
+# DOMAIN-SUFFIX,controlplane.tailscale.com
 
 # Other
 DOMAIN-SUFFIX,linux.do
