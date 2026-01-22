@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,tradingview-widget.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 
+# Tailscale
+DOMAIN-SUFFIX,controlplane.tailscale.com
+
 # Other
 DOMAIN-SUFFIX,linux.do
 DOMAIN,download.proxmox.com
