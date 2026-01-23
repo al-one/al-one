@@ -12,6 +12,7 @@ DOMAIN,mobile-apps.home-assistant.io
 
 # Cloudflare
 DOMAIN-SUFFIX,argotunnel.com
+IP-CIDR,198.41.0.0/16
 
 # BitCoin
 DOMAIN-SUFFIX,bnbstatic.com
