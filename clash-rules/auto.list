@@ -32,6 +32,11 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,controlplane.tailscale.com
 IP-CIDR,192.200.0.0/16
 
+# Pay
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,stripeassets.com
+
 # Other
 DOMAIN-SUFFIX,linux.do
 DOMAIN,download.proxmox.com
