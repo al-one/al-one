@@ -1,7 +1,9 @@
-
 # vshow
 DOMAIN-SUFFIX,v.show
 DOMAIN-SUFFIX,poppo.com
 DOMAIN-SUFFIX,poppolive.com
 DOMAIN-SUFFIX,vshowapi.com
+DOMAIN-SUFFIX,vshow-play.com
+DOMAIN-SUFFIX,vshow-live.com
+DOMAIN-SUFFIX,vone.live
 # IP-CIDR,47.238.36.137/32
