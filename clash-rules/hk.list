@@ -1,5 +1,8 @@
 DOMAIN-SUFFIX,google.com.hk
 
 DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.app
+DOMAIN-SUFFIX,longportapp.com
 DOMAIN-SUFFIX,lbkrs.com
-IP-CIDR,154.17.14.47/24
+IP-CIDR,175.178.207.0/24
+IP-CIDR,43.132.106.0/24
