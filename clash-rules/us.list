@@ -23,3 +23,10 @@ DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,galxe.com
 DOMAIN-SUFFIX,cerebras.ai
+
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.app
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,lbkrs.com
+IP-CIDR,175.178.207.0/24
+IP-CIDR,43.132.106.0/24
