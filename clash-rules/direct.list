@@ -1,7 +1,9 @@
 # Alone
+DOMAIN-SUFFIX,alone.cn,DIRECT
 DOMAIN-SUFFIX,anlo.ng,DIRECT
 DOMAIN-SUFFIX,anan.pw,DIRECT
 DOMAIN-SUFFIX,anan.pro,DIRECT
+DOMAIN-SUFFIX,anan.work,DIRECT
 IP-CIDR,198.23.254.39/32
 
 # HASS
@@ -14,7 +16,11 @@ DOMAIN-SUFFIX,ip138.com,DIRECT
 # MicroSoft
 DOMAIN-SUFFIX,sharepoint.com,DIRECT
 
+# Relay
+DOMAIN,relay.paseo.sh
+
 # Other
+DOMAIN-KEYWORD,2mmb
 PROCESS-NAME,grass
 DOMAIN-SUFFIX,grass.io
 DOMAIN-SUFFIX,getgrass.io
